@@ -1,9 +1,10 @@
-import { Note } from './pages/Note/Note'
+import { Outlet } from 'react-router-dom';
 const App = () =>  {
 
   return (
     <div>
-      Notes Manager Starter
+      Notes Manager Starter +  
+      <Outlet/>
     </div>
   )
 }
