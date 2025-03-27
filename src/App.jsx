@@ -1,4 +1,5 @@
-function App() {
+import { Note } from './pages/Note/Note'
+const App = () =>  {
 
   return (
     <div>
@@ -7,4 +8,5 @@ function App() {
   )
 }
 
-export default App
+export default App;
+
