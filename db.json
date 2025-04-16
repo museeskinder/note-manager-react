@@ -1,11 +1,16 @@
 {
-    "notes" : [
-        {
-        "id": 1,
-        "title": "my title",
-        "content": "skibidi toilet",
-        "created_at": "01/01/2025"
-        }
-
-    ]
+  "notes": [
+    {
+      "id": "1",
+      "title": "my title",
+      "content": "skibidi toilet",
+      "created_at": "01/01/2025"
+    },
+    {
+      "id": "2",
+      "title": "skibidi ohio",
+      "content": "skibidi ohio rizler",
+      "created_at": "02/01/2025"
+    }
+  ]
 }
