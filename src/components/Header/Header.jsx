@@ -4,7 +4,7 @@ import { Logo } from '../logo/index';
 import { ButtonPrimary } from '../ButtonPrimary/ButtonPrimary.jsx';
 import { useNavigate } from 'react-router-dom';
 
-export const Header = (props) => {
+export const Header = ({props}) => {
     const navigate = useNavigate();
 
     return (
